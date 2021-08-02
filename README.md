@@ -23,4 +23,4 @@
 ---
 _let's connect and chat!_ [check out my linkedin profile!](https://www.linkedin.com/in/lika-liel-golan/)
 
-![](https://github.com/LikaLiel/LikaLiel/blob/main/footer.jpg "Logo Title Text 1")
+![](https://github.com/LikaLiel/LikaLiel/blob/main/footer.png "Logo Title Text 1")

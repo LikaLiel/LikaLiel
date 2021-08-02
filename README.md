@@ -6,5 +6,18 @@
 
 <img src=https://github.com/LikaLiel/LikaLiel/blob/main/global.png alt="alt text" width=20 height=20> email me at golanlika@gmail.com
 
+### Technical Skills
+
+*Database/server*: _My SQL, SQL Server_
+
+*Programming languages*:
+-	Python 
+-	Java 
+-	C, C++
+-	JavaScript
+
+#### B.Sc. in Computer Science - Tel Aviv University
+
+
 ---
 _let's connect and chat!_ [check out my linkedin profile!](https://www.linkedin.com/in/lika-liel-golan/)
